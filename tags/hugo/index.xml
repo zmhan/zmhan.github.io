@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo on Hyper&#39;s Blog</title>
+    <link>http://zmhan.com/tags/hugo/</link>
+    <description>Recent content in Hugo on Hyper&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2016-2018. All rights reserved.</copyright>
+    <lastBuildDate>Thu, 04 Jan 2018 06:03:02 +0800</lastBuildDate>
+    
+	<atom:link href="http://zmhan.com/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hugo部署到Github问题记录</title>
+      <link>http://zmhan.com/post/hugo-%E9%83%A8%E7%BD%B2%E5%88%B0-github%E9%97%AE%E9%A2%98%E8%AE%B0%E5%BD%95/</link>
+      <pubDate>Thu, 04 Jan 2018 06:03:02 +0800</pubDate>
+      
+      <guid>http://zmhan.com/post/hugo-%E9%83%A8%E7%BD%B2%E5%88%B0-github%E9%97%AE%E9%A2%98%E8%AE%B0%E5%BD%95/</guid>
+      <description>&lt;p&gt;在将Hugo部署到GitHub中时，遇到了一系列问题，其他问题都通过搜索解决了。以下这些问题，有些是在英文搜索中发现解决的，有些是自己摸索着解决的，记录下来，备忘。&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

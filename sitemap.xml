@@ -23,6 +23,18 @@
   </url>
   
   <url>
+    <loc>http://zmhan.com/tags/github/</loc>
+    <lastmod>2018-01-04T06:03:02+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://zmhan.com/tags/hugo/</loc>
+    <lastmod>2018-01-04T06:03:02+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://zmhan.com/</loc>
     <lastmod>2018-01-04T06:03:02+08:00</lastmod>
     <priority>0</priority>
@@ -36,6 +48,7 @@
   
   <url>
     <loc>http://zmhan.com/tags/</loc>
+    <lastmod>2018-01-04T06:03:02+08:00</lastmod>
     <priority>0</priority>
   </url>
   

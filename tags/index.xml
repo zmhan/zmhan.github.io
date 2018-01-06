@@ -7,9 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2016-2018. All rights reserved.</copyright>
+    <lastBuildDate>Thu, 04 Jan 2018 06:03:02 +0800</lastBuildDate>
     
 	<atom:link href="http://zmhan.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Github</title>
+      <link>http://zmhan.com/tags/github/</link>
+      <pubDate>Thu, 04 Jan 2018 06:03:02 +0800</pubDate>
+      
+      <guid>http://zmhan.com/tags/github/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hugo</title>
+      <link>http://zmhan.com/tags/hugo/</link>
+      <pubDate>Thu, 04 Jan 2018 06:03:02 +0800</pubDate>
+      
+      <guid>http://zmhan.com/tags/hugo/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
